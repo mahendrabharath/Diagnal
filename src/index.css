@@ -1,0 +1,12 @@
+
+.inset-top-center {
+    top: 0;
+    right: 50%;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .inset-top-center {
+      right: 33%;
+    }
+  }
+  
