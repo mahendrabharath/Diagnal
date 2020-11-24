@@ -14,3 +14,6 @@ MovieList component on the first load, we use IntersectionObserver HTML API to c
 
 NavBar component has the top section of the application. An action is passed as prop to pass the query that is entered by the user to the reducer.
 In the reducer, Regx pattern is created with the user query. Then the entire movies list is looped pattern matched.
+
+
+TailWindCSS is used for styles, it highly reduced the usage of CSS properties to class names.
